@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## My Project:  
 :movie_camera: [Self introduction](https://youtu.be/4UEt8H8ukA0)  
-:ocean: CV (stage 0): [My CV](https://zmitserfurmanau.github.io/rsschool-cv/)  
-:camera: Portfolio: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/portfolio/  
-:book: Game: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/game/  
-:joy_cat: Meme Slider: https://zmitserfurmanau.github.io/cssMemSlider/cssMemSlider/  
-:arrow_forward: Virtual Keyboard: https://zmitserfurmanau.github.io/virtual-keyboard/src/  
-:dog2: Shelter: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/shelter/pages/main/
+:ocean: [My CV (stage 0)](https://zmitserfurmanau.github.io/rsschool-cv/)  
+:camera: [Portfolio](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/portfolio/)  
+:book: [Game](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/game/)  
+:joy_cat: [Meme Slider](https://zmitserfurmanau.github.io/cssMemSlider/cssMemSlider/)  
+:arrow_forward: [Virtual Keyboard](https://zmitserfurmanau.github.io/virtual-keyboard/src/)  
+:dog2: [Shelter](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/shelter/pages/main/)  
