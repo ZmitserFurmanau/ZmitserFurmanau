@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :joy_cat: My Project:
 :camera: Portfolio: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/portfolio/  
 :movie_camera: Movie App: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/movie-app/  
 :book: Game: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/game/  
