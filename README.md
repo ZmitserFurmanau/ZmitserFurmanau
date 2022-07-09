@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##My Project
+:ocean: CV (stage 0): https://zmitserfurmanau.github.io/rsschool-cv/
 :camera: Portfolio: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/portfolio/  
 :book: Game: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/game/  
 :joy_cat: Meme Slider: https://zmitserfurmanau.github.io/cssMemSlider/cssMemSlider/  
 :arrow_forward: Virtual Keyboard: https://zmitserfurmanau.github.io/virtual-keyboard/src/  
-:dog2: Shelter: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/shelter/pages/main/  
-:ocean: CV (stage 0): https://zmitserfurmanau.github.io/rsschool-cv/  
-
+:dog2: Shelter: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/shelter/pages/main/
