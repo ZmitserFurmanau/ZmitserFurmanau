@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 :joy_cat: [Meme Slider](https://zmitserfurmanau.github.io/cssMemSlider/cssMemSlider/)  
 :arrow_forward: [Virtual Keyboard](https://zmitserfurmanau.github.io/virtual-keyboard/src/)  
 :dog2: [Shelter](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/shelter/pages/main/)  
+:code: [Clean Code](https://zmitserfurmanau.github.io/clean-code-s1e1/)
