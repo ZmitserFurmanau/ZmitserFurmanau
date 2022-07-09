@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :joy_cat: My Project:
+:camera: Portfolio: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/portfolio/  
+:movie_camera: Movie App: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/movie-app/  
+:book: Game: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/game/  
+:joy_cat: Meme Slider: https://zmitserfurmanau.github.io/cssMemSlider/cssMemSlider/  
+:arrow_forward: Virtual Keyboard: https://zmitserfurmanau.github.io/virtual-keyboard/  
+:dog2: Shelter: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/shelter/pages/main/  
+:ocean: CV (stage 0): https://zmitserfurmanau.github.io/rsschool-cv/  
 -->
