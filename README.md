@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##My Project:  
+## My Project:  
 :movie_camera: [Self introduction](https://youtu.be/4UEt8H8ukA0)  
-:ocean: CV (stage 0): https://zmitserfurmanau.github.io/rsschool-cv/  
+:ocean: CV (stage 0): [My CV](https://zmitserfurmanau.github.io/rsschool-cv/)  
 :camera: Portfolio: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/portfolio/  
 :book: Game: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/game/  
 :joy_cat: Meme Slider: https://zmitserfurmanau.github.io/cssMemSlider/cssMemSlider/  
