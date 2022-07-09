@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##My Project:  
+:movie_camera: [Self introduction](https://youtu.be/4UEt8H8ukA0)  
 :ocean: CV (stage 0): https://zmitserfurmanau.github.io/rsschool-cv/  
 :camera: Portfolio: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/portfolio/  
 :book: Game: https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/game/  
