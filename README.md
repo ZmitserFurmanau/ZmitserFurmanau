@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 :ocean: [My CV](https://zmitserfurmanau.github.io/rsschool-cv/)  
 :camera: [Portfolio](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/portfolio/)  
 :book: [Game](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFEPRESCHOOL/game/)  
-:joy_cat: [Meme Slider](https://zmitserfurmanau.github.io/cssMemSlider/cssMemSlider/)  
+😹 [Meme Slider](https://zmitserfurmanau.github.io/cssMemSlider/cssMemSlider/)  
 :arrow_forward: [Virtual Keyboard](https://zmitserfurmanau.github.io/virtual-keyboard/src/)  
 :dog2: [Shelter](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/shelter/pages/main/)  
 ⚡ [Clean Code](https://zmitserfurmanau.github.io/clean-code-s1e1/src/)
