@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ▶️ [Virtual Keyboard](https://zmitserfurmanau.github.io/virtual-keyboard/src/)  
 🐕 [Shelter](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/shelter/pages/main/)  
 ⚡ [Clean Code](https://zmitserfurmanau.github.io/clean-code-s1e1/src/)  
+🍕 [Online Store](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/online-store/)
