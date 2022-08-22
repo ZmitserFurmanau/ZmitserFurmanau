@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 🐕 [Shelter](https://rolling-scopes-school.github.io/zmitserfurmanau-JSFE2022Q1/shelter/pages/main/)  
 ⚡ [Clean Code](https://zmitserfurmanau.github.io/clean-code-s1e1/src/)  
 🍕 [Online Store](https://zmitserfurmanau-online-store.netlify.app/)  
+🏎 [Async Race](https://zmitserfurmanau-async-race.netlify.app/)  
