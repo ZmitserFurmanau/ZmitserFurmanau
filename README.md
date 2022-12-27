@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ⚡ [Clean Code](https://zmitserfurmanau.github.io/clean-code-s1e1/src/)  
 🍕 [Online Store](https://zmitserfurmanau-online-store.netlify.app/)  
 🏎 [Async Race](https://zmitserfurmanau-async-race.netlify.app/)  
-📚 [RS Lang](https://rslang-ps0m.netlify.app/) 
+📚 [RS Lang](https://rslang-ps0m.netlify.app/)  
 📝 [Project Management App](https://project-management-app-team49.netlify.app/) 
